@@ -1,6 +1,6 @@
 {"Version": [
 	{
-"version": "1.1",
+"version": "1.0",
 "title":"Our App got an Update",
 "message":"New version available, click update to update the app",
 "btnUpdate":"UPDATE",
@@ -9,8 +9,8 @@
 "terms":"",
 "cp":"0",
 "land":"",
-"ads1":"",
-"ads2":"",
+"ads1":"dialog",
+"ads2":"dialog",
 "ads3":"",
 "ads4":"",
 "ads5":"",
@@ -31,7 +31,7 @@
 ],
 "apps": [
     {
-"app_title": "Get Free Netflix Account",
+"app_title": "salam 3lk",
 "app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
 "app_icon": "https://lh3.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s360",
 "app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
@@ -43,7 +43,7 @@
 "app_color": "#f54260"
     },
     {
-"app_title": "Get Free Netflix Account",
+"app_title": "waaaaa zakariyaaaw",
 "app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
 "app_icon": "https://lh3.googleusercontent.com/wgAns8gLFQee1Z4RF3KRZne3jpmrqHbp_ro6d-9lFGxe-D2cnP64Ca8xnbNNhVMWQKM=s360",
 "app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
