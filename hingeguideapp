@@ -1,0 +1,58 @@
+{"Version": [
+	{
+"version": "1.0",
+"title":"Our App got an Update",
+"message":"New version available, click update to update the app",
+"btnUpdate":"UPDATE",
+"package":"",
+"check":"1",
+"terms":"",
+"cp":"0",
+"land":"",
+"ads1":"",
+"ads2":"",
+"ads3":"",
+"ads4":"",
+"ads5":"",
+"ads6":"",
+"adminter1":"",
+"adminter2":"",
+"admId":"",
+"bnradm":"",
+"fbinter":"",
+"bnrfb":"",
+"UnId":"3537027",
+"Uninter":"inter",
+"bnrUn":"bnr",
+"splash":"un",
+"bnr":"un",
+"fbError":""
+	}
+],
+"apps": [
+    {
+"app_title": "Get Free Netflix Account",
+"app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
+"app_icon": "https://lh3.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s360",
+"app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
+"app_uri": "https://bit.ly/2AOrrsF",
+"app_rating": "5",
+"app_package":"com.meetlocals.ddd",
+"app_cta_text": "Claim My Account",
+"app_price": "Free",
+"app_color": "#f54260"
+    },
+    {
+"app_title": "Get Free Netflix Account",
+"app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
+"app_icon": "https://lh3.googleusercontent.com/wgAns8gLFQee1Z4RF3KRZne3jpmrqHbp_ro6d-9lFGxe-D2cnP64Ca8xnbNNhVMWQKM=s360",
+"app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
+"app_uri": "https://bit.ly/2AOrrsF",
+"app_rating": "5",
+"app_package":"com.moviesshow.boxapp",
+"app_cta_text": "Install for FREE",
+"app_price": "Free",
+"app_color": "#f54260"
+    }
+  ]
+}
