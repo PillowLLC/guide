@@ -9,12 +9,12 @@
 "terms":"",
 "cp":"0",
 "land":"",
-"ads1":"",
-"ads2":"",
-"ads3":"",
-"ads4":"",
-"ads5":"",
-"ads6":"",
+"ads1":"un",
+"ads2":"dialog",
+"ads3":"un",
+"ads4":"dialog",
+"ads5":"un",
+"ads6":"dialog",
 "adminter1":"",
 "adminter2":"",
 "admId":"",
@@ -30,27 +30,15 @@
 	}
 ],
 "apps": [
-    {
-"app_title": "Get Free Netflix Account",
-"app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
-"app_icon": "https://lh3.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s360",
-"app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
-"app_uri": "https://bit.ly/2AOrrsF",
+   {
+"app_title": "Get 30k Followers",
+"app_desc": "Free Followers for Instagram",
+"app_icon": "https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent-light-e1607555930353.png",
+"app_header_image": "https://smashballoon.com/wp-content/uploads/2020/04/increase-instagtram-followers.png",
+"app_uri": "http://gokushufudou.com/Redirects/insta_landing.php",
 "app_rating": "5",
 "app_package":"com.meetlocals.ddd",
-"app_cta_text": "Claim My Account",
-"app_price": "Free",
-"app_color": "#f54260"
-    },
-    {
-"app_title": "Get Free Netflix Account",
-"app_desc": "FREE NETFLIX ACCOUNT GENERATOR",
-"app_icon": "https://lh3.googleusercontent.com/wgAns8gLFQee1Z4RF3KRZne3jpmrqHbp_ro6d-9lFGxe-D2cnP64Ca8xnbNNhVMWQKM=s360",
-"app_header_image": "https://lh3.googleusercontent.com/D88VPn13kN3AVtuqOuTWkXkZsk3MdlC2R11irE3Z1dpWWJDGU-Cqr-PiCR31VoUb1wc",
-"app_uri": "https://bit.ly/2AOrrsF",
-"app_rating": "5",
-"app_package":"com.moviesshow.boxapp",
-"app_cta_text": "Install for FREE",
+"app_cta_text": "Get FREE Folowwers",
 "app_price": "Free",
 "app_color": "#f54260"
     }
